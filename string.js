@@ -17,13 +17,15 @@
 // console.log(numbers)
 
 
-const district="d h a k a"
+// const district="d h a k a"
 
-// console.log(district[6])
+// // console.log(district[6])
 
-district[6]="t"
+// district[6]="t"
 
-console.log(district)
+// console.log(district)
+
+
 
 
 

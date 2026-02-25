@@ -8,13 +8,20 @@
 
 // console.log(reverse)
 
-const sentense = 'i am a student'
 
-let reverse = ''
+// reverse by shortcut
 
-for(letter of sentense){
+let adreess = 'andorkilla'
+let result = adreess.split('').reverse().join('')
+console.log(result)
+
+// reverse by for of lopp
+
+let country = 'bangladesh'
+let reverse= ''
+for(letter of country){
     // console.log(letter)
-    reverse = letter + reverse
+    reverse =  letter + reverse
 }
 
 console.log(reverse)
