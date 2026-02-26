@@ -48,3 +48,17 @@
 //     reverse  = letter + reverse
 // }
 // console.log(reverse)
+
+// let names  = 'andoekilla'
+// let reverse  = ''
+// for(letter of names){
+//     // console.log(names)
+//     reverse  = letter + reverse
+// }
+
+// console.log(reverse)
+
+// let division  = 'nowakahali'
+
+// console.log(division.split('').reverse().join(''))
+
