@@ -1,8 +1,8 @@
 
-// string task - 1
+// // string task - 1
 
 let team = 'AmiHalaRealMadrid'
-let count = 0
+let count0 = 0
 for(let i = 0; i<team.length; i++){
     if(team[i]==='a'){
         count++
@@ -10,7 +10,7 @@ for(let i = 0; i<team.length; i++){
 }
 console.log(count)
 
-// string task-2
+// // string task-2
 
 let pharse = 'AmarShonarBanglaAmiTomaiValobasi'
 let count1 = 0
@@ -22,13 +22,13 @@ for(let i = 0; i<pharse.length; i++){
 }
 console.log(count1)
 
-// string task-3
+// // string task-3
 const sentence = 'Check whether a string contains all the vowels'
 
 console.log(sentence.includes('a'&&'e'&&'i'&&'o'&&'u'))
 
 
-// string task-4
+// // string task-4
 const word ='hello world'
 const replace = word.replace('l', 'x')
 console.log(replace)
@@ -42,4 +42,34 @@ const place = 'Dhaka'
 const replace2 = place.replaceAll('a', 'F')
 console.log(replace2)
 
-// task 5- i did not understand
+// // task 5- i did not understand
+
+// practise
+let name = 'samsung'
+let count = 0
+
+for(let i = 0; i<name.length; i++){
+    if(name[i]==='s'){
+        count++
+    }
+}
+console.log(count)
+
+
+let subject = 'salauddinAmmar'
+let count3 = 0
+
+for(let i = 0; i<subject.length; i++){
+    if(subject[i]==='a'|| subject[i]==='A'){
+        count++
+    }
+}
+
+console.log(count)
+
+
+let fish = 'jui'
+
+let palta = fish.replace('j', 'r')
+
+console.log(palta)
