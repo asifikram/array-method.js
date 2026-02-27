@@ -10,3 +10,7 @@ const number_dsc = [...numbers].sort(function(a,b){return b-a})
 
 console.log(number_dsc)
 console.log(number_asc)
+
+
+
+
