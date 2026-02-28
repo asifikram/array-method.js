@@ -19,4 +19,4 @@ function add (num1, num2){
    console.log(number)
 }
 
-add(5,6)
+add(45, 98)
