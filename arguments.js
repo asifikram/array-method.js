@@ -5,15 +5,15 @@ function doubled(number){
 }
 
 
-// doubled(34)
-// console.log('-------')
-// doubled(54)
-// console.log('-------')
-// doubled(654)
-// const number = 113
-// doubled(number)
-// const money = 5000
-// doubled(money)
+doubled(34)
+console.log('-------')
+doubled(54)
+console.log('-------')
+doubled(654)
+const number = 113
+doubled(number)
+const money = 5000
+doubled(money)
 
 
 
