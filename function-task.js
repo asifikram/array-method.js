@@ -137,3 +137,8 @@
 
 // console.log(odd_even(68))
 // console.log(odd_even(63))
+
+
+function getMenu() {
+ console.log("Burger, Pizza, Pasta");
+}

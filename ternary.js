@@ -29,24 +29,31 @@ const age=112
 
 
 
-let price=1000
-const isLeader=true
+// let price=1000
+// const isLeader=true
 
 
-if(isLeader===true){
-    if(price>=1000){
-        price=price/2
-    }
+// if(isLeader===true){
+//     if(price>=1000){
+//         price=price/2
+//     }
 
-    else{
-        price=0
-    }
-}
+//     else{
+//         price=0
+//     }
+// }
 
-else{
-    price=price
-}
-console.log(price)
+// else{
+//     price=price
+// }
+// console.log(price)
+
+
+
+const number = [12,34,56,78]
+console.log(number)
+number[2]= 43
+console.log(number)
 
 
 

@@ -17,3 +17,5 @@ const student  = {
     }
 
 }
+
+console.log(student.UpcomingExam)

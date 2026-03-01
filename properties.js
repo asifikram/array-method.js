@@ -10,10 +10,11 @@ const person  = {
 
 person.age = 27
 console.log(person.age)
+console.log(person["fav place"])
 
 
-person['fav place']= ['kuakta']
-console.log(person['fav place'])
+// person['fav place']= ['kuakta']
+// console.log(person['fav place'])
 
 // console.log( person.married)
 // const biyaitta  = person.married
