@@ -94,8 +94,8 @@
 // const digit = Math.floor(Math.random()*11)+10
 // console.log(digit)
  
-
-
+const digit = Math.sqrt(4)
+console.log(digit)
 
 
 
