@@ -26,19 +26,21 @@
 // const cumillatodhaka = miletokilo(10)
 // console.log(cumillatodhaka)
 
-function gramtokg (gram){
-    const kg = gram / 1000
-    return kg
-}
+// function gramtokg (gram){
+//     const kg = gram / 1000
+//     return kg
+// }
 
-const kegi = gramtokg(250)
-console.log(kegi)
+// const kegi = gramtokg(250)
+// console.log(kegi)
 
 
-function miletokilo (kilo){
-  const mile = kilo / 1.60934
-  return mile
-}
+// function miletokilo (kilo){
+//   const mile = kilo / 1.60934
+//   return mile
+// }
 
-const cumillatodhaka = miletokilo(78)
-console.log(cumillatodhaka)
+// const cumillatodhaka = miletokilo(78)
+// console.log(cumillatodhaka)
+
+
