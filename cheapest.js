@@ -24,15 +24,15 @@ const mobiles = [
      { name : 'htc', price : 250000, camera : '12mp', color : 'black'},
 ] 
 
-function highestphone (mobiles){
-    let max = mobiles[0]
-   for(const mobile of mobiles){
-       if(mobile.price > max.price){
-        max = mobile
+function maxphone (phones){
+    let min = phones[0]
+    for(const phone of phones){
+       if(phone.price < min.price){
+        min = phone
        }
-   }
-   return max
+    }
+    return min
 }
 
-const phones = highestphone(mobiles)
+const phones = maxphone(mobiles)
 console.log(phones)
